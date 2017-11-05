@@ -6,7 +6,3 @@ function happyHolidays(){
 function say(happyHolidaysTo, Mary){
   console.log(`Happy holidays, ${name}!`)
 }
-
-
-
-
